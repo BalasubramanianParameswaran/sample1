@@ -1,3 +1,4 @@
+//my change 2
 package finalnstatic;
 
 public class StaticDemo2 {
